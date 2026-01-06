@@ -10,6 +10,11 @@ export default function Index() {
       }}
     >
       <Text>MY first mobile app!</Text>
+      <Text>Edit `app/index.tsx` to customize this screen.</Text>
+      <Text>
+        Tap reload or press <Text style={{ fontWeight: "bold" }}>r</Text> in the
+        terminal to see changes.
+      </Text>
     </View>
   );
 }
