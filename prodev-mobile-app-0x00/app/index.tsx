@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>This is the edited home screen!</Text>
+      <Text>First App Created.</Text>
     </View>
   );
 }
