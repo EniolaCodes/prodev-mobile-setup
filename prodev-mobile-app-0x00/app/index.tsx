@@ -9,12 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>MY first mobile app!</Text>
-      <Text>Edit `app/index.tsx` to customize this screen.</Text>
-      <Text>
-        Tap reload or press <Text style={{ fontWeight: "bold" }}>r</Text> in the
-        terminal to see changes.
-      </Text>
+      <Text>This is the edited home screen!</Text>
     </View>
   );
 }
