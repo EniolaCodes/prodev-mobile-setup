@@ -1,5 +1,7 @@
 # Expo app 👋
 
+## Steps for scaffolding.
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
@@ -73,9 +75,9 @@ npx expo start -c
 
 If it still fails, paste the terminal output from `npx expo start`, the exact `npm install` output (errors/warnings), and a screenshot of devtools (QR + connection mode). I’ll help you debug further.
 
-## Get a fresh project
+## Observations from the reset-project command.
 
-When you're ready, run:
+When you run:
 
 ```bash
 npm run reset-project
