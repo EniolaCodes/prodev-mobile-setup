@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>This is the main screen</Text>
+      <Text>Welcome to ProDev Mobile App</Text>
     </View>
   );
 }
